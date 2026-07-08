@@ -1,4 +1,7 @@
 version 2
+<<<<<<< Updated upstream
 hello world
 checking
+=======
+>>>>>>> Stashed changes
 checking
