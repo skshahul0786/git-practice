@@ -1,6 +1,5 @@
 this used to store some commands
-<<<<<<< Updated upstream
 my world
-=======
 commands learning
->>>>>>> Stashed changes
+
+commands learning

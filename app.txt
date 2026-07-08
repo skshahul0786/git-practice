@@ -1,7 +1,5 @@
-version 1 and version 2
-
-<<<<<<< Updated upstream
+iversion 1 and version 2
 hello
-=======
 adding new
->>>>>>> Stashed changes
+
+adding new
