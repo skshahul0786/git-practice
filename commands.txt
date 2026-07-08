@@ -1,1 +1,2 @@
 this used to store some commands
+my world
